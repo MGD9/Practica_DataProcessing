@@ -1,5 +1,8 @@
 # Procesamiento de datos con Spark y Scala
 
+> **Original y revisión posterior:** la entrega inicial se conserva. La versión alternativa de noviembre de 2026 está en el [anexo con código, cambios y pruebas](ANEXO_REVISION_2026.md).
+
+
 En esta práctica de KeepCoding trabajé con datos del World Happiness Report para comparar países, clasificaciones de felicidad, renta por persona y esperanza de vida. Fue mi primer acercamiento a resolver preguntas de datos con Spark en Databricks.
 
 **Estado:** entrega original de formación. La revisión documental identifica errores que deben corregirse antes de reutilizar los resultados. El notebook Scala y el archivo DBC se conservan sin cambios.

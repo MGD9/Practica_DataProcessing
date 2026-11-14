@@ -15,3 +15,7 @@ Se ha inspeccionado `Practica_final.scala`. Esta revisión no ejecuta Spark ni v
 Exponenciar un logaritmo puede recuperar su escala si se confirma su definición, pero la media simple de países no representa por sí sola el PIB mundial ni el PIB mundial por habitante. No sustituir una cifra errónea por otra sin una definición válida.
 
 Para validar después: cargar los CSV originales con procedencia y versión, comprobar unicidad país-año y cobertura común, contrastar resultados y probar empates, nulos y entradas vacías. El DBC sigue siendo el original.
+
+## Revisión posterior disponible
+
+Los hallazgos anteriores describen la entrega inicial. El [anexo de noviembre de 2026](ANEXO_REVISION_2026.md) contiene la versión alternativa y distingue las pruebas superadas de la validación pendiente con datos reales. El código original permanece intacto.
