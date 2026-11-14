@@ -1,0 +1,18 @@
+# Sistema y editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+# Python y cuadernos
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+# Configuración local
+.env
+.env.*
+!.env.example
+# Archivos temporales
+*.log
+*.tmp
